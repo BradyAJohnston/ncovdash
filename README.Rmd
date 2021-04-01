@@ -1,0 +1,11 @@
+---
+output: github_document
+---
+
+# Shiny Dashboard for _ncov_
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## work in progress
